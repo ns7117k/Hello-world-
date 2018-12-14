@@ -1,3 +1,6 @@
-# Hello-world-
-Test 
-my name is nameera. I am 19 years old. i like watermelon a lot :) 
+# This is a simple java code which prints out the text that you type in.
+class Test{  
+    public static void main(String args[]){  
+     System.out.println("Hello! My name is Nameera");  
+    }  
+} 
